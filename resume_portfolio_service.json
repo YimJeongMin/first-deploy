@@ -1,6 +1,6 @@
-{
+[
     "projectName": "First Deploy 프로젝트",
     "description": "Next.js와 Vercel을 사용하여 만든 개인 포트폴리오 웹사이트입니다. 이력서 데이터를 JSON 파일로 관리하고 화면에 보여줍니다.",
     "projectUrl": "https://github.com/YimJeongMin/first-deploy",
     "skills": "Next.js"
-}
+]
